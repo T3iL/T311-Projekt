@@ -1,4 +1,4 @@
-# 11-Projekt
+# (2020.11.09/10)  11-Projekt
 Projekt semestralny
 
 1. Projekt semestralny oparty o technologie front end (HTML+CSS+JS)
