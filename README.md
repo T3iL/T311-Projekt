@@ -12,3 +12,7 @@ Projekt semestralny
 5. Proszę unikać tematów: Snake, TicTacToe, Fluppy bird, Pong, Hangman
 
 6. Na następne zajęcia proszę przygotować plik README (założenia) oraz projekt graficzny.
+
+
+
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
